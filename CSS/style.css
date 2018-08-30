@@ -1,0 +1,70 @@
+body {
+    background-color: #4CAF50;
+    font-family: Cambria Math,Serif;
+    font-size: 0.9em;
+}
+
+header, footer {
+    text-align: center;
+    font-size: 20px;
+    padding: 10px;
+    color: white;
+    background-color: #3F9042;
+    border-bottom: 6px solid white;
+}
+
+section {
+    margin: 5px;
+    padding: 10px;
+    background-color: #919191;
+}
+
+article {
+    margin: 5px;
+    padding: 10px;
+    background-color: #CCF8E0;
+    border-style: outset;
+    border-color: #8CDF9E;
+}
+
+img {
+    width: 600px;
+    height: 300px;
+    padding-left: 300px;
+}
+
+div {
+    width: 400px;
+    height: 300px;
+    display: inline-block;
+}
+
+#eventos {
+    width: 400px;
+    height: 300px;
+    padding-left: 20px;
+}
+
+#radio {
+    width: 400px;
+    height: 300px;
+    padding-left: 200px;
+}
+
+.button {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+}
+
+button.btn {
+    background-color: white; 
+    color: black; 
+    border: 2px solid #AFB3AF;
